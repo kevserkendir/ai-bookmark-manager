@@ -1,2 +1,5 @@
-# ai-bookmark-manager
-Recall is an AI bookmark manager for graduate students. It saves why you saved an article, then finds the right sources when you start an assignment.
+# sandbox/
+
+Agent drafts and working notes. Never the source of truth.
+When a draft is agreed, its content moves into minsky-project.md, context.md or another
+named file, and the draft can be deleted.
